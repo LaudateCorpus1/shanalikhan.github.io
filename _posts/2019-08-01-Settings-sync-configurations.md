@@ -23,7 +23,6 @@ For Example: GitHub Token is a part of Global Settings of two reasons, first its
     "sync.autoDownload": false,
     "sync.autoUpload": false,
     "sync.forceDownload": false,
-    "sync.askGistName": false,
     "sync.removeExtensions": true,
     "sync.syncExtensions": true,
     "sync.forceUpload": false,
@@ -42,7 +41,6 @@ Gist Settings are stored in Visual Studio code `settings.json` with the sync pre
 - *forceDownload* : `false` by default. If you set it to `true` it will overwrite the existing settings everytime the download process initiated either manually or on start.
 - *syncExtensions* : `true` by default. It allows Settings Sync to sync your extensions list in gist so when you download it will automatically install the extensions list in code.
 - *removeExtensions*: `true` by default. When syncExtensions is `true` and extensions list are downloaded. It allows Setting Sync to remove those extensions which are not a part of downloaded list of extensions. If you want to sync with new extensions and dont want to remove extra extensions keep this config to `false` Settings sync will not delete extensions.
-- *askGistName*: `false` by default. When set to `true` allows user to set Gist name while creating new one. Very helpful when you have multiple environments ( e.g Home Settings, Work Settings ) you can name those gist and download them by identifying.
 
 
 
