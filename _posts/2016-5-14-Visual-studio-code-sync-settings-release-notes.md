@@ -6,6 +6,31 @@ description : Release notes for Visual Studio Code Sync Settings
 Here are the release notes for each of the version released.
 
 
+**v3.4.3** - September 23,2019
+
+* Share GitHub Gist ID message Fixed [#1033](https://github.com/shanalikhan/code-settings-sync/issues/1033) 
+* Consistency between GitHub Gist and Description across extension readme [#1023](https://github.com/shanalikhan/code-settings-sync/issues/1023)
+* Snippets Sync. Fixed [#993](https://github.com/shanalikhan/code-settings-sync/issues/993) 
+* GitHub Api connection improved [#1027](https://github.com/shanalikhan/code-settings-sync/issues/1027) 
+* Extension always asks to enable Force Upload [#1016](https://github.com/shanalikhan/code-settings-sync/issues/1016) - Thanks for PR [#1026](https://github.com/shanalikhan/code-settings-sync/pull/1026) by [@karl-lunarg](https://github.com/karl-lunarg)
+* UX Improved for the Force Upload [#1035](https://github.com/shanalikhan/code-settings-sync/issues/1035) - Thanks for PR [#1042](https://github.com/shanalikhan/code-settings-sync/pull/1042) by [@karl-lunarg](https://github.com/karl-lunarg)
+* Webview does not set a content security policy [#1010](https://github.com/shanalikhan/code-settings-sync/issues/1010) - Thanks for PR [#1020](https://github.com/shanalikhan/code-settings-sync/pull/1020) by [@ParkourKarthik](https://github.com/ParkourKarthik)
+* Icon Improved - Thanks for PR [#1022](https://github.com/shanalikhan/code-settings-sync/pull/1022) by [@Pustur](https://github.com/Pustur)
+* Improved German Languauge Support - Thanks for PR [#1040](https://github.com/shanalikhan/code-settings-sync/pull/1040) by [@jan-di](https://github.com/jan-di)
+* Improved Chinese Language Support - Thanks for PR [#1028](https://github.com/shanalikhan/code-settings-sync/pull/1028) by [@YunChaoTsai](https://github.com/YunChaoTsai)
+* Readme Improved - Thanks for PR [#1031](https://github.com/shanalikhan/code-settings-sync/pull/1031) by [@faliure](https://github.com/faliure)
+* Slack Link Updated
+* Node Modules Updated
+
+**v3.4.2** - August 21, 2019
+
+* Multiple Lanugages Support Improved [#1009](https://github.com/shanalikhan/code-settings-sync/pull/1009) by [@ XanatosX](https://github.com/XanatosX ) , [#999](https://github.com/shanalikhan/code-settings-sync/pull/999) by [@o3LL](https://github.com/o3LL) , [#994](https://github.com/shanalikhan/code-settings-sync/pull/994) by [@mijien0179](https://github.com/mijien0179) , [#981](https://github.com/shanalikhan/code-settings-sync/pull/981) by [@ryul1206](https://github.com/ryul1206)
+* Hide GitHub Token on Summary [#974](https://github.com/shanalikhan/code-settings-sync/issues/974) 
+* Only Show "Share Gist" Dialog when Public Gist is created [#977](https://github.com/shanalikhan/code-settings-sync/issues/977) 
+* Sync Pragma Improved [#1003](https://github.com/shanalikhan/code-settings-sync/issues/1003) - Thanks for PR [#1012](https://github.com/shanalikhan/code-settings-sync/pull/1012) by [@protium-dev](https://github.com/protium-dev)
+* UI Bug Fix where users were unable to select GIST [#983](https://github.com/shanalikhan/code-settings-sync/issues/983)
+
+
 **v3.4.1** - July 22, 2019
 
 * Turn off notifications on code startup [#959](https://github.com/shanalikhan/code-settings-sync/issues/959) - Thanks for PR [#960](https://github.com/shanalikhan/code-settings-sync/pull/960) by [@arnohovhannisyan](https://github.com/arnohovhannisyan)
